@@ -3,7 +3,7 @@
 Complete historical trading & liquidity report for 'L1' (pool-paired with OSMO) on Osmosis, USD-denominated,
 over the entire tracked range (2021-09-24 → 2026-10-06).
 
-**Read the report:** <https://cordtus.github.io/l1-osmo-report/> (also [`index.html`](index.html) · [`PDF`](l1-osmo-report.pdf))
+**Read the report:** [here](https://cordtus.github.io/l1-osmo-report) (also [`index.html`](index.html) · [`PDF`](l1-osmo-report.pdf))
 
 Headline: **$1,052,077** lifetime volume · **40,856** trades by **5,873** wallets · current TVL
 **~$15,906** · **$449,647** bridged in / **$590,295** out. See [`MANIFEST.md`](MANIFEST.md) for
